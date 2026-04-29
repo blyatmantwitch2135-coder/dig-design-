@@ -1,0 +1,6 @@
+{
+  "name": "Student Planner Profile App",
+  "description": "A student planner app where the user creates a profile, adds school tasks, tracks completion, and sees a simple summary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
